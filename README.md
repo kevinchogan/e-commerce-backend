@@ -4,7 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-The back end for an e-commerce site using Express.js API and Sequelize to interact with a MySQL database.  
+The back end for an e-commerce site using Express.js API and Sequelize to interact with a MySQL database.
+
+[Deployed App](https://ecommerce-backend-kevin-0fba4610ffb4.herokuapp.com/)
 
 ## Table of Contents
 
