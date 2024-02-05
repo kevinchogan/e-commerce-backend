@@ -64,6 +64,7 @@ After cloning the repo
             ```
         - Update a product: POST: http://localhost:3001/api/products/:id
         - Delete a product: DELETE: http://localhost:3001/api/products/:id
+- Repo includes and Insomnia.JSON that contains all of the relevant API calls
 
 ![alt Screenshot of Insomnia using the APIs for the ecommerce backend](./assets/capture.png)
 [Demo Video](https://www.youtube.com/watch?v=q-3N93Op4s0)
