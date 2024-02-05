@@ -66,7 +66,7 @@ After cloning the repo
         - Delete a product: DELETE: http://localhost:3001/api/products/:id
 
 ![alt Screenshot of Insomnia using the APIs for the ecommerce backend](./assets/capture.png)
-[Demo Video](tbd)
+[Demo Video](https://www.youtube.com/watch?v=q-3N93Op4s0)
 
 ## Credits
 
